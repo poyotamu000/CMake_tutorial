@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tork/work/CMake_tutorial/sample/good_morning.cpp
+iostream
+-
+good_morning.hpp
+/home/tork/work/CMake_tutorial/sample/good_morning.hpp
+
+/home/tork/work/CMake_tutorial/sample/good_morning.hpp
+
+/home/tork/work/CMake_tutorial/sample/hello.cpp
+iostream
+-
+hello.hpp
+/home/tork/work/CMake_tutorial/sample/hello.hpp
+
+/home/tork/work/CMake_tutorial/sample/hello.hpp
+

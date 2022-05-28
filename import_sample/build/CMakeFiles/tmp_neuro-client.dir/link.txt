@@ -1,0 +1,1 @@
+/usr/bin/c++    -L/usr/local/cuda/lib64 -rdynamic CMakeFiles/tmp_neuro-client.dir/main.cpp.o  -o tmp_neuro-client -Wl,-rpath,/usr/local/lib /usr/local/lib/libtmp_neuro.so 

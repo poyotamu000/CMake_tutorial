@@ -1,0 +1,5 @@
+/usr/local/lib/libtmp_neuro.so
+/usr/local/include/tmp_neuro/hello.hpp
+/usr/local/include/tmp_neuro/good_morning.hpp
+/usr/local/share/cmake/tmp_neuro/tmp_neuro-config.cmake
+/usr/local/share/cmake/tmp_neuro/tmp_neuro-config-noconfig.cmake

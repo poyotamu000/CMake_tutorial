@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -L/usr/local/cuda/lib64 -shared -Wl,-soname,libtmp_neuro.so -o libtmp_neuro.so CMakeFiles/tmp_neuro.dir/hello.cpp.o CMakeFiles/tmp_neuro.dir/good_morning.cpp.o 

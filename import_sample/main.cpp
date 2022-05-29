@@ -1,5 +1,5 @@
-#include "hello.hpp"
-#include "good_morning.hpp"
+#include <tmp_neuro/hello.hpp>
+#include <tmp_neuro/good_morning.hpp>
 
 int main() {
     hello();

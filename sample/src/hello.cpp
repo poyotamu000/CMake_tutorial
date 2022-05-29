@@ -1,5 +1,6 @@
+#include <tmp_neuro/hello.hpp>
+
 #include <iostream>
-#include "hello.hpp"
 
 void hello() {
     std::cout << "Hello!" << std::endl;

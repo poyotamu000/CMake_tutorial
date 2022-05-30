@@ -1,3 +1,0 @@
-/home/tork/work/CMake_tutorial/import_sample/build/CMakeFiles/rebuild_cache.dir
-/home/tork/work/CMake_tutorial/import_sample/build/CMakeFiles/tmp_neuro-client.dir
-/home/tork/work/CMake_tutorial/import_sample/build/CMakeFiles/edit_cache.dir
